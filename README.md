@@ -1,4 +1,4 @@
-# 个人简历
+# 测试用例
 
 - 称呼姓名：麦广扬
 - 期望职位：前端工程师
@@ -9,9 +9,11 @@
 
 ##自我介绍
 
->  3年多的前端开发经验，待过大公司和创业公司，经手的项目大大小小有10几个，在Github上面，有自己搭建的前端架构（[gulp-jade](https://github.com/maiguangyang/gulp-jade)、[webpack-react](https://github.com/maiguangyang/webpack-react)、[webpack-angular](https://github.com/maiguangyang/webpack-angular)，在master或者develop分支）。
+>  3年多的前端开发经验，待过大公司和创业公司，经手的项目大大小小有10几个，在Github上面，有自己搭建的前端架构（[gulp-jade](https://github.com/maiguangyang/gulp-jade)、[webpack-react](https://github.com/maiguangyang/webpack-react)、[webpack-angular](https://github.com/maiguangyang/webpack-angular)、[个人后端使用接口](https://github.com/maiguangyang/iris-go)（iris-go），在master或者develop分支）。
 
 > 对前端框架、开发模式、架构有丰富的经验和独特见解，拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
+
+> 个人未来技术栈方向：前端 React、后端 Golang
 
 ##掌握技能
 
