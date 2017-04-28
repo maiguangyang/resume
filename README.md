@@ -17,18 +17,14 @@
 
 ##掌握技能
 
-* 前端（主要）
- * AngularJS、Webpack、Gulp、ES6、SCSS、Jade/Pug
- * react、redux、react-redux、react-router
+* 前端（主要）：AngularJS、react、redux、react-redux、react-router、Webpack、Gulp、ES6、SCSS、Jade/Pug
 
-* 后端
- * php、Golang
+* 后端：php、Golang
 
-* 数据库
- * mysql
+* 数据库：mysql
 
-* 其他
- * Git
+* 其他：Git
+
 
 ##项目经历
 > 以下项目主要负责需求分析、后期迭代维护、相关文档编写、进度控制、代码风格规范控制
